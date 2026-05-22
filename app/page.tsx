@@ -106,7 +106,7 @@ export default function Home() {
             <FadeUp delay={0.1}>
               <div className="bg-white rounded-3xl p-8 shadow-sm border border-gray-100 text-gray-600 leading-relaxed space-y-4">
                 <p>My passion lies in empowering learners through engaging English education — especially <strong className="text-gray-800">English for Specific Purposes (ESP)</strong>. I'm dedicated to igniting a love for learning through EduTech and innovative digital methodologies.</p>
-                <p>I leverage my <strong className="text-gray-800">6+ years of diverse hospitality experience</strong> to create dynamic, industry-relevant lessons for future hoteliers and cruise line professionals.</p>
+                <p>I leverage my <strong className="text-gray-800">10+ years of diverse hospitality experience</strong> to create dynamic, industry-relevant lessons for future hoteliers and cruise line professionals.</p>
                 <p>I have a published work on <em>"Anxiety of English Teachers and Students in Bali in the AI-laden Learning Environment"</em> and was awarded <strong className="text-blue-600">Best Presenter</strong> at ICORHESTECH 2024.</p>
               </div>
             </FadeUp>
