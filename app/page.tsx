@@ -36,7 +36,7 @@ const CERTIFICATIONS = [
 ];
 
 const PROJECTS = [
-  { name: "SpeakUp Project", desc: "A platform for students to submit video assignment links — YouTube, TikTok, or Google Drive.", href: "#", tag: "EdTech Tool", color: "from-blue-500 to-indigo-600" },
+  { name: "SpeakUp Project", desc: "A platform for students to submit video assignment links — YouTube, TikTok, or Google Drive.", href: "https://speakup.teachwithdian.my.id", tag: "EdTech Tool", color: "from-blue-500 to-indigo-600" },
 ];
 
 export default function Home() {
